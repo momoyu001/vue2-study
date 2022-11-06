@@ -15,7 +15,6 @@
     "echarts": "^5.1.2",
     "element-theme": "^2.0.1",
     "element-ui": "^2.15.5",
-    "kingstar-ui": "^1.17.7",
     "nprogress": "0.2.0",
     "postcss-px2rem": "^0.3.0",
     "postcss-px2rem-exclude": "^0.0.6",
@@ -54,9 +53,7 @@
   },
   "keywords": [
     "vue",
-    "ksp-web",
-    "pure",
-    "kingstar-ui"
+    "pure"
   ],
   "license": "MIT"
 }

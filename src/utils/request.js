@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Loading } from "kingstar-ui";
+import { Loading } from "element-ui";
 import _ from "lodash";
 import store from "@/store";
 // create an axios instance

@@ -1,5 +1,4 @@
 import Vue from "vue";
-import KingStar from "kingstar-ui";
 import "styles/common/index.scss"; // global css
 
 import "@/utils/rem";
@@ -16,9 +15,6 @@ import "./icons";
 import "./permission"; // permission control
 import defaultSettings from "./settings";
 Vue.prototype.$setting = defaultSettings;
-Vue.use(KingStar, {
-  size: "medium", // set kingstar-ui default size
-});
 Vue.config.productionTip = false;
 
 // 注册了一个空vue实例：只需要在bus初始化时获取一次，任何时间 、任何组件就可以从中直接使用了----进阶版：使用vuex

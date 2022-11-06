@@ -1,3 +1,4 @@
+一个个人用于学习 Vue2 的仓库。
 # install dependency
 npm install
 
